@@ -4450,7 +4450,7 @@ LatexCmds.integral = P(SummationNotation, function(_, super_) {
   _.init = function() {
     var htmlTemplate =
       '<span class="mq-int mq-non-leaf">'
-    +   '<big>iint;</big>'
+    +   '<big>&int;</big>'
     +   '<span class="mq-supsub mq-non-leaf">'
     +     '<span class="mq-sup"><span class="mq-sup-inner">&1</span></span>'
     +     '<span class="mq-sub">&0</span>'
