@@ -3,4 +3,5 @@ After entering the desired equation, the generated image can be click-dragged ou
 
 
 This extension utilizes the MathQuill API (https://github.com/mathquill/mathquill) as permitted by the Mozilla Public License 2.0 distributable open-source license which MathQuill has been applied to.
+
 This extension also has portions of jQuery (https://github.com/jquery/jquery) compiled code included in the form of jquery.min.js; The usage of jQuery complies with its attributed MIT license.
